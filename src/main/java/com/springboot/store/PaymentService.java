@@ -1,4 +1,4 @@
-package com.springboot;
+package com.springboot.store;
 
 public interface PaymentService {
     void processPayment(double amount);
